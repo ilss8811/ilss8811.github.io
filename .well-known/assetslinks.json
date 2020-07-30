@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.ilss.togetherfy",
+    "sha256_cert_fingerprints":
+    ["F2:11:F7:05:08:4C:F4:FD:02:04:C1:0F:20:DD:AD:98:A8:FE:0D:D5:7C:25:5C:59:BD:7F:24:7F:2F:4B:1E:BF"]
+  }
+}]
